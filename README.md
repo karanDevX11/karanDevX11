@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
 
-<img alt="Marvel GIF" align="right" width="380" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
+<img alt="Marvel GIF" align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
 <p align="left">
   <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
@@ -25,18 +25,15 @@
 - ⌨️ Average Typing speed: **45 WPM**
 
 <hr />
-<img alt="Marvel GIF" height="200" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
+<img alt="Marvel GIF" width="350" height="160" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
 
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/karanbista" target="_blank">
+<a href="https://x.com/KaranBista47908" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/karanbista/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/karanbista/" target="_blank">
+<a href="https://www.linkedin.com/in/karan-bista-6200242a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
