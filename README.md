@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Marvel Fan | Code Enthusiast</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
 
-<img alt="Marvel GIF" align="right" height="250" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+<img alt="Marvel GIF" align="right" height="250" src="![image](https://github.com/user-attachments/assets/60ce891e-c916-48cb-83a3-764997de188e)">
 
 <p align="left">
   <a href="https://twitter.com/karanbista" target="_blank">
