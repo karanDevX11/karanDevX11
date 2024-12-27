@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
 
-<img alt="Marvel GIF" align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
+<img alt="Marvel GIF" align="right" width="350" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
 <p align="left">
   <a href="https://twitter.com/karanbista" target="_blank">
@@ -16,16 +16,16 @@
 
 - 💬 Ask me about **JavaScript, Python, or anything Marvel-related!**
 
-- 📫 Reach me at **karanbista.dev@gmail.com**
+- 📫 Reach me at **bistak297@gmail.com**
 
 - ⚡ Fun fact: **I’m trying to master Iron Man’s wit while coding like Spider-Man swings! 🕸️**
 
 - 🏆 Favorite Quote: "Part of the journey is the end." - **Tony Stark**
 
-- ⌨️ Typing speed: **45 WPM**
+- ⌨️ Average Typing speed: **45 WPM**
 
 <hr />
-<img alt="Marvel GIF" height="200" align="left" src="https://media.giphy.com/media/4ZgLP08tnUMsRfGiVG/giphy.gif">
+<img alt="Marvel GIF" height="200" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
 
 <div align="center">
 <h3>Connect with me:</h3>
