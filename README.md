@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
 
-<img alt="Marvel GIF" align="right" height="250" src="[![image](https://github.com/user-attachments/assets/60ce891e-c916-48cb-83a3-764997de188e)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml0c2Zrdmpqbjg2d3U1NTY3bHIxejFicGo0MDFwODgxczlpbWtqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OPOIcmwa6Ew2A/giphy.gif)">
+<img alt="Marvel GIF" align="right" height="250" src="https://images.app.goo.gl/Hg3PvGdmd3QiMaSV8)">
 
 <p align="left">
   <a href="https://twitter.com/karanbista" target="_blank">
