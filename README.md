@@ -2,11 +2,11 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
 
-<img alt="Marvel GIF" align="right" width="350" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
+<img alt="Marvel GIF" align="right" width="380" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
 <p align="left">
-  <a href="https://twitter.com/karanbista" target="_blank">
-    <img src="https://img.shields.io/twitter/url?style=social&label=Follow%20%40karanbista&url=https%3A%2F%2Ftwitter.com%2Fkaranbista" alt="Twitter">
+  <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
+    <img src="https://img.shields.io/twitter/url?style=social&label=Follow%20%40KaranBista47908&url=https%3A%2F%2Ftwitter.com%2FKaranBista47908" alt="Twitter">
   </a>
 </p>
 
