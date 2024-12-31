@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Code Enthusiast</h3>
+<h3 align="center">Backend Developer | Code Enthusiast</h3>
 
 <img alt="Marvel GIF" align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Django and MERN Stack**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
 
@@ -44,19 +44,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img alt="coding" align="right" height="200" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<img alt="coding" align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtsd3B6cmVjdm5udnFrNGc1cXhoNG9uZnBqdDB1MzE2NG02MjVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mongodb,mysql,git,github&perline=6)](https://skillicons.dev)
 
 <hr />
 
 <div align="center">
-<a href="https://github.com/karanbista">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanbista&theme=tokyonight" />
+<a href="https://github.com/karanDevX11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karanDevX11&theme=tokyonight" />
 </a>
 <br /><br />
-<a href="https://github.com/karanbista">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanbista&theme=tokyonight" />
+<a href="https://github.com/karanDevX11">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanDevX11&theme=tokyonight" />
 </a>
 </div>
 
