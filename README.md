@@ -39,11 +39,9 @@
 </p>
 </div>
 
-<br /><br />
-<img alt="coding" align="right" width="250" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtsd3B6cmVjdm5udnFrNGc1cXhoNG9uZnBqdDB1MzE2NG02MjVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-<br />
+<br /><br /><br />
 <hr />
-
+<img alt="coding" align="right" width="250" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtsd3B6cmVjdm5udnFrNGc1cXhoNG9uZnBqdDB1MzE2NG02MjVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 <h3 align="left">Languages and Tools:</h3>
 
 
