@@ -45,7 +45,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,mongodb,mysql,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,django,mongodb,postgresql,mysql,git,github&perline=6)](https://skillicons.dev)
 
 <hr />
 
