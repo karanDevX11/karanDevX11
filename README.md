@@ -18,9 +18,7 @@
 
 - 📫 Reach me at **bistak297@gmail.com**
 
-- ⚡ Fun fact: **I’m trying to master Iron Man’s wit while coding like Spider-Man swings! 🕸️**
-
-- 🏆 Favorite Quote: "Part of the journey is the end." - **Tony Stark**
+- 🏆 Favorite Quote: "Sometimes you’ve gotta run before you can walk." - **Tony Stark**
 
 - ⌨️ Average Typing speed: **45 WPM**
 
@@ -62,5 +60,5 @@
 <hr />
 
 <div align="center">
-[![@karanbista's Holopin board](https://holopin.me/karanbista)](https://holopin.io/@karanbista)
+[![@karanbista's Holopin board](https://www.holopin.io/@karandevx11)](https://www.holopin.io/@karandevx11)
 </div>
