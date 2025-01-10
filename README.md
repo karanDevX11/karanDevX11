@@ -60,5 +60,5 @@
 <hr />
 
 <div align="center">
-[![@karanbista's Holopin board](https://www.holopin.io/@karandevx11)](https://www.holopin.io/@karandevx11)
+[![An image of @karandevx11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karandevx11)](https://holopin.io/@karandevx11)
 </div>
