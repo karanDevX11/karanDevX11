@@ -28,7 +28,7 @@
 <h3>Connect with me:</h3>
 <p>
 <a href="https://x.com/KaranBista47908" target="_blank">
-  <img align="center" src="https://img.shields.io/twitter/url?style=social&label=Follow%20%40KaranBista47908&url=https%3A%2F%2Ftwitter.com%2FKaranBista47908" alt="Twitter" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/karan-bista-6200242a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -45,7 +45,7 @@
 <img alt="coding" align="right" width="250" height="170" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtsd3B6cmVjdm5udnFrNGc1cXhoNG9uZnBqdDB1MzE2NG02MjVvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,mongodb,postgresql,mysql,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,postgresql,mysql,git,github&perline=6)](https://skillicons.dev)
 
 <hr />
 
